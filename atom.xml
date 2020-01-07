@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-01-04T10:06:14.267Z</updated>
+  <updated>2020-01-07T04:16:16.267Z</updated>
   <id>/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="/2019/12/23/Hexo-Theme-Sakura/"/>
     <id>/2019/12/23/Hexo-Theme-Sakura/</id>
     <published>2019-12-23T14:16:01.000Z</published>
-    <updated>2020-01-04T10:06:14.267Z</updated>
+    <updated>2020-01-07T04:16:16.267Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
     
     </summary>
     
-      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="转载" scheme="/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
       <category term="web" scheme="/tags/web/"/>
@@ -43,44 +43,18 @@
     <link href="/2019/12/22/%E2%80%9C%E8%83%8C%E5%BD%B1%E2%80%9D/"/>
     <id>/2019/12/22/“背影”/</id>
     <published>2019-12-22T11:30:53.000Z</published>
-    <updated>2019-12-25T16:34:58.544Z</updated>
+    <updated>2020-01-07T04:50:56.308Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;《背影》&quot;&gt;&lt;a href=&quot;#《背影》&quot; class=&quot;headerlink&quot;
-        
-      
+      “背影” 朱自清
     
     </summary>
     
-      <category term="散文" scheme="/categories/%E6%95%A3%E6%96%87/"/>
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2019/12/22/hello-world/"/>
-    <id>/2019/12/22/hello-world/</id>
-    <published>2019-12-21T17:07:13.571Z</published>
-    <updated>2019-12-24T08:35:05.600Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -89,27 +63,38 @@
     <link href="/2019/12/21/%E2%80%9C%E6%B5%8B%E8%AF%95%E2%80%9D/"/>
     <id>/2019/12/21/“测试”/</id>
     <published>2019-12-21T14:08:53.000Z</published>
-    <updated>2019-12-25T16:29:09.732Z</updated>
+    <updated>2020-01-07T04:51:06.019Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;center&gt;假如我是一只鸟&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;我也应该用嘶哑的喉咙歌唱：&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;这被暴风雨所打击着的土地，&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;这永远汹涌着我们的悲愤的河流，&lt;/cent
-        
-      
+      “我爱这土地”
     
     </summary>
     
-      <category term="-测试" scheme="/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="诗歌" scheme="/tags/%E8%AF%97%E6%AD%8C/"/>
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2019/12/21/hello-world/"/>
+    <id>/2019/12/21/hello-world/</id>
+    <published>2019-12-21T12:21:53.000Z</published>
+    <updated>2020-01-07T04:54:35.887Z</updated>
+    
+    <summary type="html">
+    
+      Hello World
+    
+    </summary>
+    
+      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -118,25 +103,18 @@
     <link href="/2019/12/21/%E2%80%9C%E3%81%93%E3%81%93%E3%82%8D%E3%81%AA%E2%80%9D/"/>
     <id>/2019/12/21/“こころな”/</id>
     <published>2019-12-21T12:21:53.000Z</published>
-    <updated>2019-12-25T16:27:21.519Z</updated>
+    <updated>2020-01-07T04:48:04.254Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;center&gt;こころな&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;ねえ、もしもすべてなげすてられたら&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;わらつていきることがらくになるの&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;またむねがいたくなるから&lt;/cen
-        
-      
+      “こころな”平假名歌词
     
     </summary>
     
+      <category term="歌词" scheme="/categories/%E6%AD%8C%E8%AF%8D/"/>
     
-      <category term="歌词" scheme="/tags/%E6%AD%8C%E8%AF%8D/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -145,26 +123,18 @@
     <link href="/2019/12/19/%E2%80%9C%E3%81%95%E3%81%8F%E3%82%89%E2%80%9D/"/>
     <id>/2019/12/19/“さくら”/</id>
     <published>2019-12-19T15:09:52.000Z</published>
-    <updated>2019-12-25T16:27:14.796Z</updated>
+    <updated>2020-01-07T04:50:44.247Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;center&gt;さくら&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;ぼくらはきつよまつてる&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;きみとまたあえるひびを&lt;/center&gt;&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;さくらなみきのみちのうえで&lt;/center&gt;&lt;/p&gt;
-&lt;p
-        
-      
+      “さくら”平假名歌词
     
     </summary>
     
+      <category term="歌词" scheme="/categories/%E6%AD%8C%E8%AF%8D/"/>
     
-      <category term="歌词" scheme="/tags/%E6%AD%8C%E8%AF%8D/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
