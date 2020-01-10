@@ -487,7 +487,7 @@
       var gitalk = new Gitalk({
           clientID: 'be0cda5b2af52ebdd0f1',
           clientSecret: '977d8887bf60b72b3563af74ac7f39b2944e3c3a',
-          id: window.location.pathname,
+          id: decodeURI(window.location.pathname),
           repo: 'Tianxinjiang.github.io',
           owner: 'Tianxinjiang',
           admin: 'Tianxinjiang'
