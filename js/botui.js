@@ -30,7 +30,7 @@ function bot_ui_ini() {
         }).then(function () {
             botui.message.add({
                 delay: 1100,
-                content: "一个可爱的蓝孩子~"
+                content: "一个可爱的倒霉孩子~"
             }).then(function () {
                 botui.action.button({
                     delay: 1600,
@@ -65,7 +65,7 @@ function bot_ui_ini() {
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "目前刚毕业了的说"
+                content: "喜欢可爱的事物"
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
@@ -73,7 +73,7 @@ function bot_ui_ini() {
                 }).then(function () {
                     botui.message.add({
                         delay: 1200,
-                        content: "但却很怕生……"
+                        content: "但却很害羞……"
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
@@ -110,7 +110,7 @@ function bot_ui_ini() {
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
-                    content: "那么，仔细看看我的博客吧？ ^_^"
+                    content: "那么，祝您生活愉快 ^_^"
                 })
             })
         } 
