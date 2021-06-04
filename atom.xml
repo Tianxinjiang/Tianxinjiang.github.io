@@ -37,26 +37,6 @@
   </entry>
   
   <entry>
-    <title>荧</title>
-    <link href="/2020/11/17/%E8%8D%A7/"/>
-    <id>/2020/11/17/荧/</id>
-    <published>2020-11-17T14:54:59.000Z</published>
-    <updated>2020-11-22T10:48:26.413Z</updated>
-    
-    <summary type="html">
-    
-      原神
-    
-    </summary>
-    
-      <category term="生活" scheme="/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>hexo+github搭建个人博客</title>
     <link href="/2020/01/07/hexo-github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>/2020/01/07/hexo-github搭建个人博客/</id>
@@ -150,9 +130,9 @@
       <category term="笔记" scheme="/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
-    
       <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
