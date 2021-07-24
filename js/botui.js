@@ -30,7 +30,7 @@ function bot_ui_ini() {
         }).then(function () {
             botui.message.add({
                 delay: 1100,
-                content: "一个可爱的倒霉孩子~"
+                content: "~(˘▾˘~)"
             }).then(function () {
                 botui.action.button({
                     delay: 1600,
@@ -65,7 +65,7 @@ function bot_ui_ini() {
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "喜欢可爱的事物"
+                content: "喜欢玩游戏、偶尔看看番"
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
@@ -73,19 +73,19 @@ function bot_ui_ini() {
                 }).then(function () {
                     botui.message.add({
                         delay: 1200,
-                        content: "但却很害羞……"
+                        content: "但比较害羞⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄"
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
-                            content: "有时候也喜欢一个人静静的听歌…"
+                            content: "有时候也喜欢一个人发呆(｀・ω・´)"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "学习的专业是自动化相关的，偶尔也学点别的"
+                                content: "喜欢熬夜，第二然后睡懒觉φ(>ω<*) "
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
-                                    content: "喜欢追番，偶尔也学一点点日语"
+                                    content: "~~~"
                                 }).then(function () {
                                     botui.action.button({
                                         delay: 1100,
